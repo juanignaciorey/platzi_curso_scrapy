@@ -26,5 +26,3 @@ git clone https://github.com/juanignaciorey/platzi_curso_scrapy.git
 _Para crawlear y exportar a json_
 
 - [Scrapy](https://scrapy.org/) -
-- [Maven](https://maven.apache.org/) - Manejador de dependencias
-- [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
